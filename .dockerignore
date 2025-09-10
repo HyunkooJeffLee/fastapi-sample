@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.mypy_cache/
+.venv/
+.git/
+.gitignore
+uv.lock
